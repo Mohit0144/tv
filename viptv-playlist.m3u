@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0,#EXTM3U
 #EXTINF:0, group-title="Pakistan",ARY Digital
-#EXTINF:0,http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Ary News
-#EXTINF:0,http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
+http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",ARY Zindagi
-#EXTINF:0,http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/chunklist_w956423461_b1349152.m3u8
+http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/chunklist_w956423461_b1349152.m3u8
 #EXTINF:0, group-title="Pakistan",Dunya News
-#EXTINF:0,http://imob.dunyanews.tv:1935/live/smil:stream.smil/chunklist_w491888781_b300000.m3u8
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/chunklist_w491888781_b300000.m3u8
 #EXTINF:0, group-title="Pakistan",Geo News
 #EXTINF:0,http://stream.jeem.tv/geo/geonews/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Geo TV
