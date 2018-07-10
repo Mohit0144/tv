@@ -1,0 +1,96 @@
+#EXTM3U
+#EXTINF:0,#EXTM3U
+#EXTINF:0, group-title="Pakistan",ARY Digital
+#EXTINF:0,http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+#EXTINF:0, group-title="Pakistan",Ary News
+#EXTINF:0,http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
+#EXTINF:0, group-title="Pakistan",ARY Zindagi
+#EXTINF:0,http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/chunklist_w956423461_b1349152.m3u8
+#EXTINF:0, group-title="Pakistan",Dunya News
+#EXTINF:0,http://imob.dunyanews.tv:1935/live/smil:stream.smil/chunklist_w491888781_b300000.m3u8
+#EXTINF:0, group-title="Pakistan",Geo News
+#EXTINF:0,http://stream.jeem.tv/geo/geonews/playlist.m3u8
+#EXTINF:0, group-title="Pakistan",Geo TV
+#EXTINF:0,http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
+#EXTINF:0, group-title="Pakistan",Khyber TV
+#EXTINF:0,http://live.pockettv.com.pk:1755/live/khybertvweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",K21 News
+#EXTINF:0,http://stream.tapmad.com:1935/pitvlive/k213.stream/chunklist.m3u8
+#EXTINF:0, group-title="Pakistan",Khyber News
+#EXTINF:0,http://live.pockettv.com.pk:1755/live/khybernewsweb_720p/index.m3u8
+#EXTINF:0, group-title="English",Animal Planet
+#EXTINF:0,http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/01.m3u8
+#EXTINF:0, group-title="English",AXN
+#EXTINF:0,http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226443/index.m3u8
+#EXTINF:0, group-title="English",Dsports HD
+#EXTINF:0,http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+#EXTINF:0, group-title="English",Neo Sports
+#EXTINF:0,http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
+#EXTINF:0, group-title="English",Zee Cafe 
+#EXTINF:0,https://z5ams.akamaized.net/zeecafesd/tracks-v2a1/index.m3u8
+#EXTINF:0, group-title="Hindi",And Pictures
+#EXTINF:0,https://z5ams.akamaized.net/andpicssd/tracks-v2a1/index.m3u8
+#EXTINF:0, group-title="Hindi",And Pictures HD
+#EXTINF:0,https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
+#EXTINF:0, group-title="Hindi",B4U Movies
+#EXTINF:0,http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/01.m3u8
+#EXTINF:0, group-title="Hindi",Cinema TV
+#EXTINF:0,http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226246/index.m3u8
+#EXTINF:0, group-title="Hindi",Discovery
+#EXTINF:0,http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/01.m3u8
+#EXTINF:0, group-title="Hindi",Discovery Science
+#EXTINF:0,http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/01.m3u8
+#EXTINF:0, group-title="Hindi",Food Food
+#EXTINF:0,http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225836/01.m3u8
+#EXTINF:0, group-title="Hindi",Sony Max SD
+#EXTINF:0,http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/01.m3u8
+#EXTINF:0, group-title="Hindi",Sony Mix
+#EXTINF:0,http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/01.m3u8
+#EXTINF:0, group-title="Hindi",Sony
+#EXTINF:0,http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/01.m3u8
+#EXTINF:0, group-title="Hindi",Sony Wah
+#EXTINF:0,http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/01.m3u8
+#EXTINF:0, group-title="Hindi",Wow Cinema
+#EXTINF:0,http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226263/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee Action
+#EXTINF:0,http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226331/1.m3u8
+#EXTINF:0, group-title="Hindi",Zee Anmol
+#EXTINF:0,https://z5ams.akamaized.net/zeeanmol/tracks-v2a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee Cinema
+#EXTINF:0,http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/01.m3u8
+#EXTINF:0, group-title="Hindi",Zee Cinema HD
+#EXTINF:0,http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226083/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee TV
+#EXTINF:0,http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225878/01.m3u
+#EXTINF:0, group-title="Hindi",Zing
+#EXTINF:0,https://z5ams.akamaized.net/zing/tracks-v2a1/index.m3u8
+#EXTINF:0, group-title="Hindi",ZOOM
+#EXTINF:0,http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:0, group-title="Punjabi",9X Tashan
+#EXTINF:0,http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226017/01.m3u8
+#EXTINF:0, group-title="Punjabi",Jhanjar Music
+#EXTINF:0,http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:0, group-title="Punjabi",Masti TV
+#EXTINF:0,http://cdn.samtv.ca/mastitv/index.m3u8
+#EXTINF:0, group-title="Hindi",Set Max
+#EXTINF:0,http://163.172.24.253:8000/nnneindi/jkhdkef/11.ch
+#EXTINF:0, group-title="Hindi",Colors HD
+#EXTINF:0,http://163.172.24.253:8000/nnneindi/jkhdkef/7.ch
+#EXTINF:0, group-title="Hindi",Star Gold HD
+#EXTINF:0,http://163.172.24.253:8000/nnneindi/jkhdkef/8.ch
+#EXTINF:0, group-title="Hindi",Zee Cinema HD
+#EXTINF:0,http://163.172.24.253:8000/nnneindi/jkhdkef/9.ch
+#EXTINF:0, group-title="English",HBO HD
+#EXTINF:0,http://163.172.24.253:8000/nnneindi/jkhdkef/12.ch
+#EXTINF:0, group-title="English",Nat Geo
+#EXTINF:0,http://163.172.24.253:8000/nnneindi/jkhdkef/14.ch
+#EXTINF:0, group-title="English",Sky Movie
+#EXTINF:0,http://163.172.24.253:8000/nnneindi/jkhdkef/13.ch
+#EXTINF:0, group-title="English",And Prive HD
+#EXTINF:0,https://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
+#EXTINF:0, group-title="English",9xO
+#EXTINF:0,http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN",ARY Digital
+#EXTINF:0,http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cartoonnetwork.com/static/images/global/ogLogo.png" group-title="UK",Cartoon Network
+#EXTINF:0,http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
