@@ -1,5 +1,5 @@
-#EXTM3U
-
+#EXTINF:0, group-title="India",Star Gold
+http://163.172.24.253:8000/nnneindi/jkhdkef/8.ch
 #EXTINF:0, group-title="Pakistan",ARY Digital
 http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Ary News
