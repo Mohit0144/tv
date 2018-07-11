@@ -1,3 +1,5 @@
+#EXTINF:0, group-title="India",Sony Enter
+http://163.172.24.253:8000/nnneindi/jkhdkef/4.ch
 #EXTINF:0, group-title="India",Star Gold
 http://163.172.24.253:8000/nnneindi/jkhdkef/8.ch
 #EXTINF:0, group-title="Pakistan",ARY Digital
