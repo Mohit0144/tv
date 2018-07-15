@@ -23,7 +23,7 @@ http://dcunilive24-lh.akamaihd.net/i/dclive_1@32257/master.m3u8
 #EXTINF:0, group-title="Pakistan",K21 News
 http://stream.tapmad.com:1935/pitvlive/k213.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Khyber News
-http://live.pockettv.com.pk:1755/live/khybernewsweb_720p/index.m3u8
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@31437/master.m3u8
 #EXTINF:0, group-title="English",Animal Planet
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/01.m3u8
 #EXTINF:0, group-title="English",AXN
