@@ -4,8 +4,8 @@ http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1795.ts
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19261.ts
 #EXTINF:0,IN: Sony Rox
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16136.ts
-#EXTINF:-1,IN@ Zee ETC
-http://izgemma.ddns.net:8000/live/pedro/pedro/31256.ts
+#EXTINF:0,IN: ZEE ETC BOLLYWOOD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19278.ts
 #EXTINF:0, group-title="Pakistan",ARY Digital
 http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Ary News
