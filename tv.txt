@@ -1,7 +1,9 @@
 #EXTINF:0, group-title="India",Sony Enter
-http://163.172.24.253:8000/nnneindi/jkhdkef/4.ch
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1795.ts
 #EXTINF:0, group-title="India",Star Gold
-http://izgemma.ddns.net:8000/live/pedro/pedro/11321.ts
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19261.ts
+#EXTINF:0,IN: Sony Rox
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16136.ts
 #EXTINF:-1,IN@ Zee ETC
 http://izgemma.ddns.net:8000/live/pedro/pedro/31256.ts
 #EXTINF:0, group-title="Pakistan",ARY Digital
